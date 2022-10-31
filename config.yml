@@ -1,0 +1,103 @@
+baseURL: "https://fduzs.github.io/blog"
+languageCode: "en-us"
+title: "Shuai Zheng"
+paginate: 5
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+menu:
+  main:
+    - name: Archives
+      url: /archives/
+    - name: Search
+      url: /search/
+    - name: Tags
+      url: /tags/
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # title: ExampleSite
+  description: "Shuai Zheng's Blog"
+  keywords: [Blog]
+  author: "Shuai Zheng"
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: true
+
+  # ShowReadingTime: true
+  # ShowShareButtons: true
+  ShowPostNavLinks: true
+  # ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16"
+    favicon32x32: "favicon-32x32"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+
+  # label:
+  #   text: "Home"
+  #   icon: /apple-touch-icon.png
+  #   iconHeight: 35
+
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: What I read, write and explore.
+
+  socialIcons:
+    - name: GitHub
+      url: "https://github.com/FDUZS"
+    - name: CV
+      url: "https://fduzs.github.io"
+    - name: RSS
+      url: "index.xml"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
