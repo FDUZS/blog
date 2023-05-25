@@ -1,6 +1,6 @@
 baseURL: "https://fduzs.github.io/blog"
 languageCode: "en-us"
-title: "Shuai Zheng"
+title: "Blog"
 paginate: 5
 theme: "PaperMod"
 
