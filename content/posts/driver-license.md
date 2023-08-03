@@ -64,7 +64,7 @@ tags: ["Driver License"]
 
 实际练车时间并没有多长，大部分都花在等安排和等预约考试上了。如果能进行相应优化，使各流程无缝衔接上，即使在练车和考试要求更严格的今天，从报名到拿驾照的时间也能控制在 40 天左右。
 
-![training-records](https://img.shuaizheng.net/2307/training-records.JPEG)
+![training-records](https://img.shuaizheng.org/2307/training-records.JPEG)
 
 ### 预约考试
 
