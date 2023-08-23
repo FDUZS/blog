@@ -20,12 +20,19 @@ tags: ["Overseas"]
 
 ### 虚拟货币
 
-在币安、欧易等交易所注册了账户
+在[币安][Binance]、[欧易][OKX]、[Bitfinex]等交易所注册了账户
 
-Dupay、OneKey Card 与虚拟货币相关的虚拟卡片
+[Dupay][Depay Visa]、[OneKey Card] 与虚拟货币相关的虚拟卡片
 
-WildCard 虽然与虚拟货币无关，但也强不了多少
+[WildCard] 虽然与虚拟货币无关，但也强不了多少
 
 ### Stripe
 
 [计划中]
+
+[Depay Visa]: https://link.zs.fyi/dupay
+[OneKey Card]: https://link.zs.fyi/onekey
+[WildCard]: https://link.zs.fyi/wildcard
+[Binance]: https://link.zs.fyi/binance
+[OKX]: https://link.zs.fyi/okx
+[Bitfinex]: https://link.zs.fyi/bitfinex
