@@ -14,7 +14,7 @@ tags: ["Overseas"]
 
 ### Wise
 
-非常好用的全球转账工具，通过杜高斯贝入金激活的
+非常好用的全球转账工具，通过[杜高斯贝]入金激活的
 
 为了求稳，注册的中国区账户，目前无法申请卡片
 
@@ -43,3 +43,4 @@ A fee-free transfer up to HK$5,000 when they sign up with your link.
 [OKX]: https://link.zs.fyi/okx
 [Bitfinex]: https://link.zs.fyi/bitfinex
 [Wise]: https://link.zs.fyi/wise
+[杜高斯贝]: https://blog.shuaizheng.org/posts/overseas-bank-accounts/#dukascopy-bank-sa
