@@ -1,5 +1,5 @@
 baseURL: "https://blog.shuaizheng.org/"
-languageCode: "en-us"
+languageCode: "en-US"
 title: "Blog"
 paginate: 5
 theme: "PaperMod"
@@ -15,12 +15,41 @@ minify:
 
 menu:
   main:
-    - name: Archives
-      url: /archives/
-    - name: Search
+    - identifier: search
+      name: Search
       url: /search/
-    - name: Tags
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: tags
+      name: Tags
       url: /tags/
+      weight: 30
+    - identifier: wiki
+      name: Wiki
+      url: https://wiki.shuaizheng.org/
+      weight: 40
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+# Search page
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -30,29 +59,40 @@ params:
   author: "Shuai Zheng"
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  dateFormat: "January 2, 2006"
+
+  # Default theme
   defaultTheme: auto # dark, light
+  # Theme toggle
   disableThemeToggle: true
 
-  # ShowReadingTime: true
-  # ShowShareButtons: true
-  ShowPostNavLinks: true
-  # ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
+  showReadingTime: false
+
+  # Share buttons
+  showShareButtons: true
+  shareButtons: ["twitter", "facebook", "telegram"]
+
+  showPostNavLinks: true
+  showBreadCrumbs: false
+  showCodeCopyButtons: true
+  showWordCount: false
+  showRssButtonInSectionTermList: true
+  useHugoTOC: false
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: false
+  hideMeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
 
+  # TOC
+  showTOC: false
+  tocOpen: false
+
+  # Assets
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
+    disableHLJS: false
+    disableFingerprinting: false
+
     favicon: "favicon.ico"
     favicon16x16: "favicon-16x16.png"
     favicon32x32: "favicon-32x32.png"
@@ -64,11 +104,12 @@ params:
   #   icon: /apple-touch-icon.png
   #   iconHeight: 35
 
+  # Home-info Mode
   homeInfoParams:
-    Title: Hi there 👋
-    Content: What I read, write and explore.
+    title: Hi there 👋
+    content: What I read, write and explore.
 
-  socialIcons:
+  socialIcons: # optional
     - name: GitHub
       url: "https://github.com/FDUZS"
     - name: CV
@@ -76,6 +117,7 @@ params:
     - name: RSS
       url: "index.xml"
 
+  # Fusejs options
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -84,20 +126,3 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # is necessary
