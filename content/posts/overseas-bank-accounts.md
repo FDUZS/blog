@@ -20,7 +20,9 @@ tags: ["Overseas"]
 
 新加坡华侨银行为新加坡第二大银行，目前支持中国护照远程开户下卡。开户所需资料包括护照（不需要有新加坡签证）、身份证、支持 NFC 的手机及国内手机号。
 
-下载安装下图中的 OCBC App，选择使用外国护照进行开户，输入我的推荐码 `KJN9FDOS`。然后按照常规填写信息，用手机扫描护照条码、读取芯片信息，等待指示灯全绿之后，依例扫描身份证正反面和人脸识别。App 做得挺好，每一步都有比较明确的指引。
+下载安装下图中的 OCBC App，选择使用外国护照进行开户，输入我的推荐码 `KJN9FDOS`，开户后一个月内入金 1000 新加坡元及以上可额外得 15 新加坡元。可以直接在国内银行购汇后以电汇的方式入金，也可以通过 [Wise] 的新加坡币账户汇款。如果有在使用 MetaMask 等虚拟货币钱包的话，也可以开通[杜高斯贝]银行账户，通过虚拟货币入金后再汇款到 OCBC。
+
+按照常规填写信息，用手机扫描护照条码、读取芯片信息，等待指示灯全绿之后，依例扫描身份证正反面和人脸识别。App 做得挺好，每一步都有比较明确的指引。
 
 ![OCBC App](https://img.shuaizheng.org/2308/ocbc-app.jpg)
 
@@ -72,3 +74,5 @@ Powered by www.17track.net
 [计划中]
 
 [全球物流查询平台]: https://www.17track.net/zh-cn
+[杜高斯贝]: https://blog.shuaizheng.org/posts/overseas-bank-accounts/#dukascopy-bank-sa
+[Wise]: https://blog.shuaizheng.org/posts/overseas-payment-methods/#wise
