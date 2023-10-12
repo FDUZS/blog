@@ -20,7 +20,17 @@ tags: ["Overseas"]
 
 激活的时候拉到底下不选择套餐（Pay as you go），无月费，隔几个月（6 个月内）发条短信保号
 
-通过我的[邀请链接][giffgaff 邀请链接]申请卡片，激活后可额外得 5 英镑余额。发的是平信，申请时注意在地址栏填上自己的手机号，邮政编码别搞错，其他地址信息以拼音形式填写，基本上就能收到了。
+通过我的[邀请链接][giffgaff 邀请链接]申请卡片，激活后可额外得 5 英镑余额。发的是平信，申请时注意在地址栏填上自己的手机号（见下图），邮政编码别搞错，其他地址信息正常填写（可以拼音形式），基本上就能收到了。还有一点，申请时注意不要让 giffgaff 网站走代理，不然邮寄地址似乎只能是英国。
+
+![填写申请信息](https://img.shuaizheng.org/2310/UsNcS1G5NR.png)
+
+我前段时间申请了一下，申请时间为 8 月 24 日，9 月 27 日拿到的，历时一个月左右。
+
+![giffgaff-letter](https://img.shuaizheng.org/2310/giffgaff-letter.jpg)
+
+<!-- ![type-postcode](https://img.shuaizheng.org/2310/lW3mtm53Ob.png)
+
+![type-address](https://img.shuaizheng.org/2310/gj5ifHCS74.png) -->
 
 更多信息参考：[英国 Giffgaff 电话卡使用报告] 和 [我买了一张英国电话卡（手机卡）Giffgaff，附激活过程和注意事项]
 
