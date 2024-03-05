@@ -6,69 +6,56 @@
     <description>Recent content in Tags on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Aug 2023 17:35:04 +0800</lastBuildDate><atom:link href="https://blog.shuaizheng.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 17:35:04 +0800</lastBuildDate>
+    <atom:link href="https://blog.shuaizheng.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overseas</title>
       <link>https://blog.shuaizheng.org/tags/overseas/</link>
       <pubDate>Sun, 20 Aug 2023 17:35:04 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/overseas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Beian</title>
       <link>https://blog.shuaizheng.org/tags/beian/</link>
       <pubDate>Sun, 20 Aug 2023 10:32:23 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/beian/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Passport</title>
       <link>https://blog.shuaizheng.org/tags/passport/</link>
       <pubDate>Sun, 28 May 2023 18:36:50 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/passport/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Driver License</title>
       <link>https://blog.shuaizheng.org/tags/driver-license/</link>
       <pubDate>Mon, 17 Aug 2020 22:45:52 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/driver-license/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Password Manager</title>
       <link>https://blog.shuaizheng.org/tags/password-manager/</link>
       <pubDate>Mon, 30 Dec 2019 23:37:10 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/password-manager/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Scoop</title>
       <link>https://blog.shuaizheng.org/tags/scoop/</link>
       <pubDate>Fri, 27 Dec 2019 19:53:59 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/scoop/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>小鹤双拼</title>
       <link>https://blog.shuaizheng.org/tags/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC/</link>
       <pubDate>Wed, 23 May 2018 01:14:48 +0800</pubDate>
-      
       <guid>https://blog.shuaizheng.org/tags/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
