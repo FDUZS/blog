@@ -6,6 +6,14 @@ draft: false
 tags: ["Overseas"]
 ---
 
+### iFAST Global Bank
+
+受英国金管局监管，金融服务补偿计划（FSCS）成员。可用来接收 Kraken 交易所出金，且年初刚支持了 FPS 转账。
+
+[注册开户][iFAST Global Bank]非常简单，填写基本信息，然后录制视频回答几个问题，之后等审核通过就行了。通过邀请链接开户，存入至少 500 英镑放 3 个月，你我都能得到 5 英镑奖励，聊胜于无。
+
+![iFAST Global Bank App](https://img.shuaizheng.org/2403/ifast.jpg)
+
 ### Dukascopy Bank SA
 
 瑞士杜高斯贝银行多币种账户，可通过虚拟货币入金，注册目的主要是激活 Wise 账户。可申请实体卡，但使用起来手续费较高，没啥必要。
@@ -105,3 +113,4 @@ Powered by www.17track.net
 [杜高斯贝]: https://blog.shuaizheng.org/posts/overseas-bank-accounts/#dukascopy-bank-sa
 [Wise]: https://blog.shuaizheng.org/posts/overseas-payment-methods/#wise
 [livi 官网]: https://www.livibank.com/zh_HK/happiness/livi-boc-offer
+[iFAST Global Bank]: https://link.zs.fyi/ifast
