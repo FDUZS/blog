@@ -95,8 +95,13 @@ Powered by www.17track.net
 
 ### Livi Bank
 
-开户难度和众安银行一样，但好像没有开户奖励了。不过有一点要注意，地址用中文填写，并精确到门牌号。开户有问题的话，直接到 App 内联系客服。
+开户难度和众安银行一样，不过有一点要注意，地址用中文填写，并精确到门牌号。开户有问题的话，直接到 App 内联系客服。
+
+开户奖励的话，可以试试填 `BOC#LIVISPEND` 邀请码，到 [livi 官网]查看最新迎新奖赏。
+
+![livi 迎新奖励](https://img.shuaizheng.org/2403/livi.png)
 
 [全球物流查询平台]: https://www.17track.net/zh-cn
 [杜高斯贝]: https://blog.shuaizheng.org/posts/overseas-bank-accounts/#dukascopy-bank-sa
 [Wise]: https://blog.shuaizheng.org/posts/overseas-payment-methods/#wise
+[livi 官网]: https://www.livibank.com/zh_HK/happiness/livi-boc-offer
