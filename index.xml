@@ -6,8 +6,15 @@
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Aug 2023 17:35:04 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 14:34:55 +0800</lastBuildDate>
     <atom:link href="https://blog.shuaizheng.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>越过长城，走向世界</title>
+      <link>https://blog.shuaizheng.org/posts/fuck-gfw/</link>
+      <pubDate>Wed, 20 Mar 2024 14:34:55 +0800</pubDate>
+      <guid>https://blog.shuaizheng.org/posts/fuck-gfw/</guid>
+      <description>Across the Great Wall, we can reach every corner in the world.</description>
+    </item>
     <item>
       <title>非大陆地区手机卡</title>
       <link>https://blog.shuaizheng.org/posts/overseas-sim-cards/</link>
