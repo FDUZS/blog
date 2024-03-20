@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Beian on Blog</title>
+    <link>http://localhost:1313/tags/beian/</link>
+    <description>Recent content in Beian on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Aug 2023 10:32:23 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App 备案</title>
+      <link>http://localhost:1313/posts/app-beian/</link>
+      <pubDate>Sun, 20 Aug 2023 10:32:23 +0800</pubDate>
+      <guid>http://localhost:1313/posts/app-beian/</guid>
+      <description>App 备案通知一经发布在国内互联网，尤其是独立开发者中，引起了不少讨论。虽然我目前还没有上架 App 的经历，但是对于 ICP 备案，即常见的个人博客网站备案有着较为丰富的经验，姑且谈谈。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 20 Mar 2024 14:34:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>越过长城，走向世界</title>
+      <link>http://localhost:1313/posts/fuck-gfw/</link>
+      <pubDate>Wed, 20 Mar 2024 14:34:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/fuck-gfw/</guid>
+      <description>Across the Great Wall, we can reach every corner in the world.</description>
+    </item>
+    <item>
+      <title>非大陆地区手机卡</title>
+      <link>http://localhost:1313/posts/overseas-sim-cards/</link>
+      <pubDate>Sun, 20 Aug 2023 17:35:04 +0800</pubDate>
+      <guid>http://localhost:1313/posts/overseas-sim-cards/</guid>
+      <description>拥有或计划办理的手机卡</description>
+    </item>
+    <item>
+      <title>非大陆地区银行账户</title>
+      <link>http://localhost:1313/posts/overseas-bank-accounts/</link>
+      <pubDate>Sun, 20 Aug 2023 17:34:13 +0800</pubDate>
+      <guid>http://localhost:1313/posts/overseas-bank-accounts/</guid>
+      <description>拥有或计划办理的银行账户</description>
+    </item>
+    <item>
+      <title>非大陆地区支付工具</title>
+      <link>http://localhost:1313/posts/overseas-payment-methods/</link>
+      <pubDate>Sun, 20 Aug 2023 17:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/overseas-payment-methods/</guid>
+      <description>拥有或计划办理的支付工具</description>
+    </item>
+    <item>
+      <title>App 备案</title>
+      <link>http://localhost:1313/posts/app-beian/</link>
+      <pubDate>Sun, 20 Aug 2023 10:32:23 +0800</pubDate>
+      <guid>http://localhost:1313/posts/app-beian/</guid>
+      <description>App 备案通知一经发布在国内互联网，尤其是独立开发者中，引起了不少讨论。虽然我目前还没有上架 App 的经历，但是对于 ICP 备案，即常见的个人博客网站备案有着较为丰富的经验，姑且谈谈。</description>
+    </item>
+    <item>
+      <title>办理护照及港澳通行证</title>
+      <link>http://localhost:1313/posts/apply-for-a-passport/</link>
+      <pubDate>Sun, 28 May 2023 18:36:50 +0800</pubDate>
+      <guid>http://localhost:1313/posts/apply-for-a-passport/</guid>
+      <description>看到 5 月 15 日出入境证件恢复“全国通办”后，本着有备无患的心理，以及有注册国外账户用护照 KYC 认证的需求，就连带着港澳通行证一起办理了。</description>
+    </item>
+    <item>
+      <title>考驾照小记</title>
+      <link>http://localhost:1313/posts/driver-license/</link>
+      <pubDate>Mon, 17 Aug 2020 22:45:52 +0800</pubDate>
+      <guid>http://localhost:1313/posts/driver-license/</guid>
+      <description>因为本科寒暑假时间都比较短，我就一直懒得去考驾照，最近才把这事解决。一两个月，从一个什么都不懂的小白，到能够把车开起来的菜鸟。以下所述，因地区不同，费用、项目、考试要求等都不尽相同，仅供参考。</description>
+    </item>
+    <item>
+      <title>1Password、Enpass、Bitwarden 使用体验之比较</title>
+      <link>http://localhost:1313/posts/comparison-among-three-password-managers/</link>
+      <pubDate>Mon, 30 Dec 2019 23:37:10 +0800</pubDate>
+      <guid>http://localhost:1313/posts/comparison-among-three-password-managers/</guid>
+      <description>一篇关于三款密码管理工具主观不全面，偏体验和细节的比较评测，主要从价格、同步情况、密码填充和界面等方面展开。</description>
+    </item>
+    <item>
+      <title>Scoop 并没有那么好</title>
+      <link>http://localhost:1313/posts/scoop-is-not-that-good/</link>
+      <pubDate>Fri, 27 Dec 2019 19:53:59 +0800</pubDate>
+      <guid>http://localhost:1313/posts/scoop-is-not-that-good/</guid>
+      <description>了解过 Scoop 的想必在不少网站上看过介绍它的文章，其中「少数派」就有三篇。但是，这些文章几乎都是赞美，很少有指出其缺点的。</description>
+    </item>
+    <item>
+      <title>使用「小鹤双拼」三个月后</title>
+      <link>http://localhost:1313/posts/xnheulpb/</link>
+      <pubDate>Wed, 23 May 2018 01:14:48 +0800</pubDate>
+      <guid>http://localhost:1313/posts/xnheulpb/</guid>
+      <description>作为一个喜欢折腾、手速不快、键位不熟的人，三个月前尝试并开始使用双拼输入法，现分享一下我的体会。</description>
+    </item>
+  </channel>
+</rss>

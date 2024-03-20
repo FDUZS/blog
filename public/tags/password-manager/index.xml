@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Password Manager on Blog</title>
+    <link>http://localhost:1313/tags/password-manager/</link>
+    <description>Recent content in Password Manager on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Dec 2019 23:37:10 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/password-manager/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1Password、Enpass、Bitwarden 使用体验之比较</title>
+      <link>http://localhost:1313/posts/comparison-among-three-password-managers/</link>
+      <pubDate>Mon, 30 Dec 2019 23:37:10 +0800</pubDate>
+      <guid>http://localhost:1313/posts/comparison-among-three-password-managers/</guid>
+      <description>一篇关于三款密码管理工具主观不全面，偏体验和细节的比较评测，主要从价格、同步情况、密码填充和界面等方面展开。</description>
+    </item>
+  </channel>
+</rss>
