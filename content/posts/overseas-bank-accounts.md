@@ -91,7 +91,7 @@ Powered by www.17track.net
 
 首先，至少先开通一家别的银行账户（比如上面两家）并存入两万（或至少一千）港币。
 
-然后再输入我的邀请码 `TTWRD4` 进行众安银行开户，一般情况下会秒开，开户后设置好转数快 ID。
+然后再输入我的邀请码 `TTWRD4` 进行[众安银行开户]，一般情况下会秒开，开户后设置好转数快 ID。
 
 接着通过“入钱易”（优先选择）或转数快将钱（1000+ 港币）转入众安银行，完成其中一个新手任务，拿到卡片。
 
@@ -114,3 +114,4 @@ Powered by www.17track.net
 [Wise]: https://blog.shuaizheng.org/posts/overseas-payment-methods/#wise
 [livi 官网]: https://www.livibank.com/zh_HK/happiness/livi-boc-offer
 [iFAST Global Bank]: https://link.zs.fyi/ifast
+[众安银行开户]: https://link.zs.fyi/za
