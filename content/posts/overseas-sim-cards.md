@@ -50,4 +50,4 @@ tags: ["Overseas"]
 
 [英国 Giffgaff 电话卡使用报告]: https://tsb2blog.com/giffgaff-sim-card
 [我买了一张英国电话卡（手机卡）Giffgaff，附激活过程和注意事项]: https://blog.xiaoz.org/archives/18506
-[giffgaff 邀请链接]: https://link.zs.fyi/giffgaff
+[giffgaff 邀请链接]: https://yourl.ink/giffgaff

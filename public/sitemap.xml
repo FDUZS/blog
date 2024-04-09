@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.shuaizheng.org/</loc>
     <lastmod>2024-03-20T14:34:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/internet/</loc>
+    <loc>https://blog.shuaizheng.org/tags/internet/</loc>
     <lastmod>2024-03-20T14:34:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.shuaizheng.org/posts/</loc>
     <lastmod>2024-03-20T14:34:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.shuaizheng.org/tags/</loc>
     <lastmod>2024-03-20T14:34:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fuck-gfw/</loc>
+    <loc>https://blog.shuaizheng.org/posts/fuck-gfw/</loc>
     <lastmod>2024-03-20T14:34:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/overseas/</loc>
+    <loc>https://blog.shuaizheng.org/tags/overseas/</loc>
     <lastmod>2023-08-20T17:35:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/overseas-sim-cards/</loc>
+    <loc>https://blog.shuaizheng.org/posts/overseas-sim-cards/</loc>
     <lastmod>2023-08-20T17:35:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/overseas-bank-accounts/</loc>
+    <loc>https://blog.shuaizheng.org/posts/overseas-bank-accounts/</loc>
     <lastmod>2023-08-20T17:34:13+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/overseas-payment-methods/</loc>
+    <loc>https://blog.shuaizheng.org/posts/overseas-payment-methods/</loc>
     <lastmod>2023-08-20T17:33:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/app-beian/</loc>
+    <loc>https://blog.shuaizheng.org/posts/app-beian/</loc>
     <lastmod>2023-08-20T10:32:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/beian/</loc>
+    <loc>https://blog.shuaizheng.org/tags/beian/</loc>
     <lastmod>2023-08-20T10:32:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/passport/</loc>
+    <loc>https://blog.shuaizheng.org/tags/passport/</loc>
     <lastmod>2023-05-28T18:36:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/apply-for-a-passport/</loc>
+    <loc>https://blog.shuaizheng.org/posts/apply-for-a-passport/</loc>
     <lastmod>2023-05-28T18:36:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/driver-license/</loc>
+    <loc>https://blog.shuaizheng.org/tags/driver-license/</loc>
     <lastmod>2020-08-17T22:45:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/driver-license/</loc>
+    <loc>https://blog.shuaizheng.org/posts/driver-license/</loc>
     <lastmod>2020-08-17T22:45:52+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/comparison-among-three-password-managers/</loc>
+    <loc>https://blog.shuaizheng.org/posts/comparison-among-three-password-managers/</loc>
     <lastmod>2019-12-30T23:37:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/password-manager/</loc>
+    <loc>https://blog.shuaizheng.org/tags/password-manager/</loc>
     <lastmod>2019-12-30T23:37:10+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/scoop/</loc>
+    <loc>https://blog.shuaizheng.org/tags/scoop/</loc>
     <lastmod>2019-12-27T19:53:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/scoop-is-not-that-good/</loc>
+    <loc>https://blog.shuaizheng.org/posts/scoop-is-not-that-good/</loc>
     <lastmod>2019-12-27T19:53:59+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/xnheulpb/</loc>
+    <loc>https://blog.shuaizheng.org/posts/xnheulpb/</loc>
     <lastmod>2018-05-23T01:14:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC/</loc>
+    <loc>https://blog.shuaizheng.org/tags/%E5%B0%8F%E9%B9%A4%E5%8F%8C%E6%8B%BC/</loc>
     <lastmod>2018-05-23T01:14:48+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://blog.shuaizheng.org/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.shuaizheng.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://blog.shuaizheng.org/search/</loc>
   </url>
 </urlset>

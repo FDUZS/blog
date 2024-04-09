@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Internet on Blog</title>
-    <link>http://localhost:1313/tags/internet/</link>
+    <link>https://blog.shuaizheng.org/tags/internet/</link>
     <description>Recent content in Internet on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 20 Mar 2024 14:34:55 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.shuaizheng.org/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>越过长城，走向世界</title>
-      <link>http://localhost:1313/posts/fuck-gfw/</link>
+      <link>https://blog.shuaizheng.org/posts/fuck-gfw/</link>
       <pubDate>Wed, 20 Mar 2024 14:34:55 +0800</pubDate>
-      <guid>http://localhost:1313/posts/fuck-gfw/</guid>
+      <guid>https://blog.shuaizheng.org/posts/fuck-gfw/</guid>
       <description>Across the Great Wall, we can reach every corner in the world.</description>
     </item>
   </channel>

@@ -36,11 +36,11 @@ A fee-free transfer up to HK$5,000 when they sign up with your link.
 
 [计划中]
 
-[Depay Visa]: https://link.zs.fyi/dupay
-[OneKey Card]: https://link.zs.fyi/onekey
-[WildCard]: https://link.zs.fyi/wildcard
-[Binance]: https://link.zs.fyi/binance
-[OKX]: https://link.zs.fyi/okx
-[Bitfinex]: https://link.zs.fyi/bitfinex
-[Wise]: https://link.zs.fyi/wise
+[Depay Visa]: https://yourl.ink/dupay
+[OneKey Card]: https://yourl.ink/onekey
+[WildCard]: https://yourl.ink/wildcard
+[Binance]: https://yourl.ink/binance
+[OKX]: https://yourl.ink/okx
+[Bitfinex]: https://yourl.ink/bitfinex
+[Wise]: https://yourl.ink/wise
 [杜高斯贝]: https://blog.shuaizheng.org/posts/overseas-bank-accounts/#dukascopy-bank-sa

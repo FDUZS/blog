@@ -42,13 +42,13 @@ cover:
 
 Fuck GFW!
 
-[BandwagonHost]: https://link.zs.fyi/bwg
-[GigsGigsCloud]: https://link.zs.fyi/ggc
-[Vultr]: https://link.zs.fyi/vultr
-[DigitalOcean]: https://link.zs.fyi/do
-[RamNode]: https://link.zs.fyi/ramnode
-[IPLC.VIP]: https://link.zs.fyi/iplc
-[WestData]: https://link.zs.fyi/westdata
-[FlowerCloud]: https://link.zs.fyi/flowercloud
-[MESL]: https://link.zs.fyi/mesl
-[Just My Socks]: https://link.zs.fyi/jms
+[BandwagonHost]: https://yourl.ink/bwg
+[GigsGigsCloud]: https://yourl.ink/ggc
+[Vultr]: https://yourl.ink/vultr
+[DigitalOcean]: https://yourl.ink/do
+[RamNode]: https://yourl.ink/ramnode
+[IPLC.VIP]: https://yourl.ink/iplc
+[WestData]: https://yourl.ink/westdata
+[FlowerCloud]: https://yourl.ink/flowercloud
+[MESL]: https://yourl.ink/mesl
+[Just My Socks]: https://yourl.ink/jms

@@ -113,5 +113,5 @@ Powered by www.17track.net
 [杜高斯贝]: https://blog.shuaizheng.org/posts/overseas-bank-accounts/#dukascopy-bank-sa
 [Wise]: https://blog.shuaizheng.org/posts/overseas-payment-methods/#wise
 [livi 官网]: https://www.livibank.com/zh_HK/happiness/livi-boc-offer
-[iFAST Global Bank]: https://link.zs.fyi/ifast
-[众安银行开户]: https://link.zs.fyi/za
+[iFAST Global Bank]: https://yourl.ink/ifast
+[众安银行开户]: https://yourl.ink/za
