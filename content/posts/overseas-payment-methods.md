@@ -20,9 +20,7 @@ tags: ["Overseas"]
 
 通过我的[邀请链接][Wise]注册，你将获得
 
-```text
-A fee-free transfer up to HK$5,000 when they sign up with your link.
-```
+> A fee-free transfer up to HK$5,000 when they sign up with your link.
 
 ### 虚拟货币
 
